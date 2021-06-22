@@ -11,16 +11,18 @@ You can follow me on youtube [D2Magicos](https://www.youtube.com/channel/UCZ0DK9
 
 ## PROYECTOS
 
-| Menu Navigations / Header Navigation  | Animations / Turn on the light|
+| Prototipo de mi impresora 3D  | Impresora 3D construida|
 |--|--|
 | <center> <img src="https://raw.githubusercontent.com/CristhianLara1996/MyProjects/main/impresora3D(Sparkly).png" width="250"> </center> | <center> <img src="https://raw.githubusercontent.com/CristhianLara1996/MyProjects/main/printer.jpg" width="250">  </center>|
 
-| Animations / Hide my widgets  | Animations / Menu Exploration |
+| Sistema de monitoreo y gestión diseño  | Construido |
 |--|--|
-| <center> <img src="https://media.giphy.com/media/h4x6fHw65l3KdnDrTi/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/Y07CGmYvcNyl9rkgbY/giphy.gif" width="250">
- </center>
+| <center> <img src="https://raw.githubusercontent.com/CristhianLara1996/MyProjects/main/monitoreo%20y%20gestion%20remoto.png" width="250"> </center> 
 
- | App Clone / Photo Concept  | App Clone / Movies Concept |
+| Lampara RGB DISEÑO PCB |
 |--|--|
-| <center> <img src="https://media.giphy.com/media/XybRawN2vj4YV3fhul/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/UuNiEk20TKjn4F4H7a/giphy.gif" width="250">
- </center>
+| <center> <img src="https://raw.githubusercontent.com/CristhianLara1996/MyProjects/main/Lampara%20RBG.png" width="250"> </center>
+
+| Inodoro Automatico |
+|--|--|
+| <center> <img src="https://raw.githubusercontent.com/CristhianLara1996/MyProjects/main/inodoro%20automatico.png" width="250"> </center>
