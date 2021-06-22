@@ -13,7 +13,7 @@ You can follow me on youtube [D2Magicos](https://www.youtube.com/channel/UCZ0DK9
 
 | Menu Navigations / Header Navigation  | Animations / Turn on the light|
 |--|--|
-| <center> <img src="https://media.giphy.com/media/f5SP7mJnO4x9mK4CSv/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/VgSfLeabru2qTerOrp/giphy.gif" width="250">  </center>|
+| <center> <img src="https://raw.githubusercontent.com/CristhianLara1996/MyProjects/main/impresora3D(Sparkly).png" width="250"> </center> | <center> <img src="https://raw.githubusercontent.com/CristhianLara1996/MyProjects/main/printer.jpg" width="250">  </center>|
 
 | Animations / Hide my widgets  | Animations / Menu Exploration |
 |--|--|
